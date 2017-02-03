@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Buntington Child
+ Theme URI:    https://school.wpshow.me
+ Description:  WordPress Education/School Theme based on Bootstrap v3.1
+ Author:       Dameer DJ
+ Author URI:   http://themeforest.net/feeleep
+ Template:     Buntington
+ Version:      1.2
+ Tags:         one-column, two-columns, left-sidebar, right-sidebar, responsive-layout, custom-menu, editor-style, featured-images, microformats, sticky-post, translation-ready
+ Text Domain:  kazaz
+*/
+
+@import url("../Buntington/style.css");
+
+/* overwrite theme's default styles below this line */

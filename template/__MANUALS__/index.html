@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Site title -->
+    <title>Buntington - WordPress Theme documentation</title>
+    
+    <!-- Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <!-- Google webfonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700,800' rel='stylesheet' type='text/css'>
+    
+	<!-- Required stylesheets -->
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/prettify.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+    <!-- Make BS work on IE8 -->
+    <!--[if lt IE 9]>
+    <script src="assets/js/html5shiv.js"></script>
+    <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body data-spy="scroll" data-target="#k-spy-kid">
+
+    <section id="k-spy-kid" class="navbar navbar-inverse navbar-fixed-top"><!-- fixed top navbar start -->
+    
+        <div class="container">
+        
+            <div class="navbar-header">
+                <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+                <a href="#" class="navbar-brand"><strong>Buntington</strong></a>
+            </div>
+            
+            <div class="navbar-collapse collapse">
+                <ul id="page-scroll-to" class="nav navbar-nav pull-right">
+                    <li class="active"><a href="#k-s-installation">Installation</a></li>
+                    <li><a href="#k-s-homepages">Home pages</a></li>
+                    <li><a href="#k-s-shortcodes">Shortcodes</a></li>
+                    <li><a href="#k-s-content-chunks">Content Chunks</a></li>
+                    <li><a href="#k-s-sliders">Sliders</a></li>
+                    <li><a href="#k-s-events">Events</a></li>
+                    <li><a href="#k-s-courses">Courses</a></li>
+                    <li><a href="#k-s-galleries">Galleries</a></li>
+                    <li><a href="#k-s-custom-templates">Custom Templates</a></li>
+                    <li><a href="#k-s-howto">How To...</a></li>
+                    <li><a href="#k-s-credits">Credits</a></li>
+                </ul>
+            </div><!--/.navbar-collapse -->
+            
+        </div>
+        
+    </section><!-- fixed top navbar end -->
+    
+    <section id="k-s-top" class="marged-navbar section-space30"><!-- big title start -->
+    
+    	<div class="container"><!-- container start -->
+        
+        	<div class="row"><!-- row start -->
+            
+            	<div class="col-lg-12">
+            
+                    <h2>Buntington - WordPress Theme Documentation <small class="text-danger">V1.3</small></h2>
+                    <hr />
+                    <p class="k-excerpt section-space30">
+                    Thank you for purchasing my WordPress theme!<br />If you have any questions that are beyond the scope of this help file, feel free to send message via my user page <a href="http://themeforest.net/user/feeleep" target="_blank" title="Contact Form">contact form</a>.
+                    </p>
+                
+                </div>
+               
+           </div><!-- row end -->
+           
+        	<div class="row"><!-- row start -->
+            
+            	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 mq-box">
+            
+					<table class="table table-hover table-bordered bg-light">
+                        <tbody>
+                            <tr><td><small>Created: <strong>Jul 27, 2014</strong></small></td></tr>
+                            <tr><td><small>Modified: <strong>Aug 27, 2016</strong></small></td></tr>
+                            <tr><td><small>Documentation Version: <strong>1.3</strong></small></td></tr>
+                        </tbody>
+                    </table>
+                
+                </div>
+                
+            	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+            
+					<table class="table table-hover table-bordered bg-light">
+                        <tbody>
+                            <tr><td><small>Author: <strong>Feeleep</strong></small></td></tr>
+                            <tr><td><small>Theme Version: <strong>1.3</strong></small></td></tr>
+                            <tr><td><small>Contact: <a href="http://themeforest.net/user/feeleep" target="_blank" title="Contact Form"><strong>Use Contact Form</strong></a></small></td></tr>
+                        </tbody>
+                    </table>
+                
+                </div>
+               
+           </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- big title end -->
+    
+    
+    <section id="k-s-installation" class="section-space30"><!-- installation start -->
+    
+    	<div class="container"><!-- container start -->
+        
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Installation</h3>
+                    <p class="k-excerpt">Please read carefully and you'll be able to run a demo site shortly.</p>
+                    <hr />
+                </div>
+            
+            	<div class="col-lg-12">
+                	<h4>1. Theme</h4>
+					<ol>
+                    
+                    	<li>You'll either need a local server (like <a href="http://www.apachefriends.org/en/xampp.html" title="XAMPP" target="_blank">XAMPP</a> or <a href="http://www.mamp.info/en/index.html" title="MAMP" target="_blank">MAMP</a>) or remotely hosted server and a domain (Dreamhost, BlueHost and similar) with the latest version of WordPress installed.</li>
+                        <li>Unzip (to a local drive) theme package downloaded from your Themeforest account.</li>
+                        <li>Login to WordPress Dashboard then select <strong>Appearance > Themes</strong>, <em>Install Themes</em> tab, <strong>Upload</strong>.</li>
+                        <li>Browse to "Buntington.zip" file inside of unzipped archive on a local drive, hit "Install Now" button.</li>
+                    
+                    </ol>
+                	<div class="gap30"></div>
+                    <h4>2. Theme's demo</h4>
+                    <ol>
+                    	<li>In Dashboard select <strong>Tools > Import</strong>. Once there, click <strong>WordPress</strong> (the very last row of a table)</li>
+                        <li>If not already installed, <strong>Importer</strong> plugin download/installation will be initialized. Hit "Install Now" button.</li>
+                        <li>In your unzipped theme archive you'll be able to find a folder named "__DEMO__". Browse to "__DEMO__/buntington_demo.xml" then import.</li>
+                        <li>Confirm import of media files as well.</li>
+                    </ol>
+                	<div class="gap30"></div>
+                    <h4>3. Theme Widgets</h4>
+                    <ol>
+                    	<li>In Dashboard select <strong>Plugins > Install New</strong> then enter "Widget Importer &amp; Exporter" into Plugin's search. Find, install and activate plugin.</li>
+                        <li>In Dashboard select <strong>Tools > Widget Import/Export</strong></li>
+                        <li>In your unzipped theme archive browse to "__DEMO__/buntington_widgets.wie" and Import Widgets.</li>
+                    </ol>
+                    <div class="gap30"></div>
+                    <h4>4. Theme Options</h4>
+                    <ol>
+                    	<li>In Dashboard select <strong>Appearance > Buntington Options</strong>. Once there select <strong>Utility</strong> screen.</li>
+                        <li>In unzipped theme archive look up for a folder named "__DEMO__". Browse to "__DEMO__/buntington_options.txt" and open it.</li>
+                        <li>Use <strong>Find-Replace</strong> tool of your text editor to find all instances of "school.wpshow.me" and replace with "your_own_domain.com"</li>
+                        <li>Once found-replaced, select all (Ctrl+A or Cmd+A) and copy.</li>
+                        <li>Get back to Buntington Options, <strong>Utility</strong> screen and paste all into <strong>Import</strong> textarea</li>
+                        <li>Hit "Import" button followed by "Save Changes"</li>
+                    </ol>
+                    <div class="gap30"></div>
+                    <h4>5. Theme Menus</h4>
+                    <ol>
+                    	<li>In Dashboard select <strong>Appearance > Menus</strong>. Once there, be sure that <strong>Edit Menus</strong> tab is active.</li>
+                        <li>From <em>Select a menu to edit</em> drop-down select Functional Menu and hit "Select" button.</li>
+                        <li>In <strong>Menu Settings</strong> section, under <em>Theme locations</em> be sure to tick Functional Menu checkbox.</li>
+                        <li>Click "Save Menu" button to confirm changes.</li>
+                        <li>Now from <em>Select a menu to edit</em> drop-down select Main Menu (Primary Menu) and hit "Select" button once again.</li>
+                        <li>In <strong>Menu Settings</strong> section, under <em>Theme locations</em> this time be sure to tick Primary Menu checkbox.</li>
+                        <li>Click "Save Menu" button.</li>
+                    </ol>
+                    <div class="gap30"></div>
+                    <h4>6. Media Settings</h4>
+                    <ol>
+                    	<li>In Dashboard select <strong>Settings > Media</strong></li>
+                        <li>Be sure to set all up as seen on the figure below
+                        <div class="gap10"></div>
+                        <img src="assets/img/media_settings.png" alt="Media Settings" class="img-responsive img-thumbnail" /></li>
+                    </ol>
+                    <div class="gap30"></div>
+                    <h4>7. Permalinks</h4>
+                    <ol>
+                    	<li>In Dashboard select <strong>Settings > Permalinks</strong></li>
+                        <li>Select <strong>Custom Structure</strong> and enter <code>/%category%/%postname%/</code> or <code>/%category%/%postname%-%post_id%/</code> into an empty input field.</li>
+                        <li>Save Changes</li>
+                    </ol>
+                    <div class="gap30"></div>
+                    <h4>8. Logo and Favicon</h4>
+                    <ol>
+                    	<li>Go to Theme Options (<strong>Appearance > Buntington Options</strong>), <em>Basic Options</em></li>
+                        <li>Upload your own logo if you want and favicon. Just for case you don't know how to create favicon (.ico), <a href="http://www.convertico.com/" title="Convertico" target="_blank">HERE IT IS</a>.
+                        <div class="gap10"></div>
+                    	<div class="alert alert-info">
+                    	Take a 10 - 15 minutes break to study other theme options and maybe change font family, the highlight color, sidebar position, contact details, handle API keys, etc.
+                    	</div></li>
+                    </ol>
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- installation end -->
+        
+    
+    <section id="k-s-homepages" class="section-space30"><!-- home pages start -->
+    
+    	<div class="container"><!-- container start -->
+        
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Home Pages builder</h3>
+                    <p class="k-excerpt">Home Pages is a custom post type. It has a really cool tool that helps you build awesome home page in just a couple of minutes.</p>
+                    <hr />
+                </div>
+            
+            	<div class="col-lg-12 clearfix">
+                <img src="assets/img/page_blox_shortcode.png" alt="Page Blox Shortcode" class="img-responsive img-thumbnail" />
+                <div class="gap30"></div>
+				<p>
+                In order to make your own home page from Dashboard select <strong>Home Pages > Add New</strong>. Enter the title of your home page (it won't be visible) and start composing...
+                </p>
+                <p>
+                It should be as easy as adding rows and columns. <em>Section</em> represents the row while the <em>section layout</em> refers to a number of columns per that very row.<br />
+                </p>
+                <p>
+                It's good to know that Sections are both repeatable and sortable! The same goes for shortcode boxes: create as many as needed then drag'n'drop to sort at will.
+                </p>
+                <p>
+                Whenever section layout is selected, use the plus mark to insert shortcode into the box.
+                </p>
+                <p>
+                Go ahead, give it a shot, you can't screw anything up. The only thing you need is a bit of practice!
+                </p>
+                <div class="gap10"></div>
+				
+                <h4>Want to set it up on front page?</h4>
+                <img src="assets/img/reading_settings.png" alt="Reading_settings" class="img-responsive img-thumbnail" />
+                <div class="gap10"></div>
+                <p>
+                The process of turning custom home page into your website front page conforms WordPress standards! As usually:<br />
+                go to Dashboard, select <strong>Settings > Reading</strong>.<br />
+                Under Reading settings, Front page displays, tick "A static page (select below)" option then from the "Front page" drop-down select your new home page by the title.<br />
+                Don't forget to Save Changes.
+                </p>
+
+                </div>
+            
+            </div><!-- row end -->
+            
+        </div><!-- container end -->
+    
+    </section><!-- home pages end -->
+    
+    
+    <section id="k-s-shortcodes" class="section-space30"><!-- shortcodes start -->
+    
+    	<div class="container"><!-- container start -->
+            
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Shortcodes</h3>
+                    <p class="k-excerpt">Keep the content tidy, well organized and visually attractive to your website visitors!</p>
+                    <hr />
+                </div>
+                
+                <div class="col-lg-12">
+                    <img src="assets/img/shortcodes.png" alt="Shortcodes" class="img-responsive img-thumbnail" />
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <p>
+                    There are two, very simple rules to remember when working with Shortcodes:
+                    </p>
+                    <ol>
+                    <li><strong>Insert Shortcode placeholder BEFORE adding the content.</strong>
+                    <br /><small>Maybe you used to select the chunk of text first then apply the shortcode to with some other themes but this time is different.</small></li>
+                    <li><strong>Always hit Enter (new line) to separate two or more Shortcodes or the content from Shortcode placeholders.</strong>
+                    <br /><small>There are some inline Shortcodes (like Fontawesome icon) so it's kinda logical to avoid line breaks but still be sure to separate multiple shortcode instances with at least one empty line.</small></li>
+                    </ol>
+                    <div class="gap10"></div>
+                    <p>It has to be pointed out that some Shortcodes require <u>double action</u>. <strong>Tabed Content</strong>, <strong>Accordion</strong> and <strong>Slider</strong> are special type of Shortcodes whose content is added in two steps.</p>
+                    <p><strong class="text-danger">STEP 1</strong> - <small>adds wrapper. Only one wrapper is needed per Shortcode instance!</small></p>
+                    <p><strong class="text-danger">STEP 2</strong> - <small>adds single item. This action can be repeated as many times as needed, within a single wrapper.</small></p>
+                    <div class="gap10"></div>
+                    <p>In order to be able to better understand how <strong>Columns</strong> shortcodes are working, be sure to read about <a href="http://getbootstrap.com/css/#grid" title="Bootstrap grid system" target="_blank">Bootstrap grid system</a>. These shortcodes are in direct relation to it!</p>
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- shortcodes end -->
+    
+    
+    <section id="k-s-content-chunks" class="section-space30"><!-- content chunks start -->
+    
+    	<div class="container"><!-- container start -->
+            
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Content Chunks</h3>
+                    <p class="k-excerpt">Reusable content? Why not. It'll be stored in shortcode. </p>
+                    <hr />
+                </div>
+                
+                <div class="col-lg-12">
+                    <img src="assets/img/content_chunks.png" alt="Content Chunks" class="img-responsive img-thumbnail" />
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <p>
+                    The purpose of Content Chunks should be pretty straightforward: create a piece of content that can easily be included in Page, Post, Custom Post Type or Widget via shortcode.
+                    </p>
+                    <p>
+                    Each and every content chunk obtains unique id which is a part of its shortcode. Whenever you need to "pull" specific content chunk into a Page or Post simply copy-paste entire shortcode.
+                    </p>
+                    <p>
+                    Of course, it can even be simpler! All of your Content Chunks are getable thru theme's standard <a href="#k-s-shortcodes">Shortcodes</a> library so you don't even need to copy-paste.
+                    </p>
+
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- content chunks end -->
+    
+    
+    <section id="k-s-sliders" class="section-space30"><!-- sliders start -->
+    
+    	<div class="container"><!-- container start -->
+            
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Sliders</h3>
+                    <p class="k-excerpt">Create as many as needed with an unlimited number of photos. Insert via shortcode.</p>
+                    <hr />
+                </div>
+                
+                <div class="col-lg-12">
+                    <img src="assets/img/sliders.png" alt="Sliders" class="img-responsive img-thumbnail" />
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <p>
+                    If you don't like those complex image sliders with zillions of options that make you pull your hair off, this is something you gonna like. Create/publish a Slider quickly by using good, old WordPress interface with no tricky or hidden options.
+                    </p>
+                    <p>
+                    The best of all: once published your new Slider immediately becomes available thru the theme <a href="#k-s-shortcodes">Shortcodes</a> library. Otherwise, it can be inserted anywhere to Post, Page, Custom Post Type or Widget via shortcode.
+                    </p>
+                    <p>
+                    Each Slider can be different because each one uses its own settings! Each slide can have a different caption or become a link to remote/inner page!
+                    </p>
+					<div class="alert alert-warning">
+                    Be sure that all of images used by a single Slider share width and height (at least the height). Otherwise you may expect some strange behaviour.
+                    </div>
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- sliders end -->
+    
+    
+    <section id="k-s-events" class="section-space30"><!-- events start -->
+    
+    	<div class="container"><!-- container start -->
+            
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Events</h3>
+                    <p class="k-excerpt">Announce and list different school occasions without any plugin.</p>
+                    <hr />
+                </div>
+                
+                <div class="col-lg-12">
+                    <img src="assets/img/events.png" alt="Upcoming Events" class="img-responsive img-thumbnail" />
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <p>
+                    Events is a custom post type used to announce (upcoming) occasion. With an each event you'll be able to set start/end date and start/end hour according to which events get presented on front-end. Events are published as any other regular Post in WordPress, however they will never be listed by date of publish.
+                    </p>
+                    <p>
+                    Expired events will not be listed, however, events archive will keep the record of all past events.
+                    </p>
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- events end -->
+    
+    
+    <section id="k-s-courses" class="section-space30"><!-- courses start -->
+    
+    	<div class="container"><!-- container start -->
+            
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Courses</h3>
+                    <p class="k-excerpt">Manage searchable school courses library easy way.</p>
+                    <hr />
+                </div>
+                
+                <div class="col-lg-12">
+                    <img src="assets/img/courses.png" alt="Courses" class="img-responsive img-thumbnail" />
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <p>
+                    This theme is equipped with another powerful feature that seems to be inevitable for every school: Courses.
+                    <br />
+                    Categorize them, create as many as needed with as many features as needed (per course!), attach unlimited number of downloads/documents (per course)...
+                    </p>
+                    <p>
+                    The most important fact is that all of the course features are automatically turned into the search keywords! It means that any course can be searched by title, ID, instructor, credits or any other course feature provided. 
+                    </p>
+					<div class="alert alert-warning">
+                    Beware: Course ID is a must to enter information!
+                    </div>
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <img src="assets/img/courses_2.png" alt="Courses inner" class="img-responsive img-thumbnail" />
+                    <p>
+                    <em>Unlimited number of features per course</em>
+                    </p>
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- courses end -->
+    
+    
+    <section id="k-s-galleries" class="section-space30"><!-- galleries start -->
+    
+    	<div class="container"><!-- container start -->
+            
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Galleries</h3>
+                    <p class="k-excerpt">School galleries at one place rather than spread across different posts.</p>
+                    <hr />
+                </div>
+                
+                <div class="col-lg-12">
+                    <img src="assets/img/galleries.png" alt="Galleries" class="img-responsive img-thumbnail" />
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <p>
+                    There's no easier method to manage school galleries. Create and publish as you would do with any other WordPress post. What makes things even better is a bulk uploader; just drag'n'drop photos from a system folder into your gallery post!
+                    </p>
+                    <p>
+                    Don't "attach" galleries to Posts or school Events - unless you really need to. It'll be harder for people to find photos of their interest.
+                    Rather create a separate gallery and then provide a link to it.
+                    <br />
+                    This theme feature allows you to classify or categorize galleries and thus enable a better browsing experience.
+                    </p>
+					<div class="alert alert-warning">
+                    Beware: Each Gallery must have a featured image defined! Once you upload all of the photos, add the one that will represent your gallery.
+                    </div>
+                </div>
+                
+                <div class="col-lg-12">
+                	<div class="gap30"></div>
+                    <img src="assets/img/galleries_2.png" alt="Galleries inner" class="img-responsive img-thumbnail" />
+                    <p>
+                    <em>Bulk upload photos to gallery, just drag'n'drop from desktop or any other system folder.</em>
+                    </p>
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- galleries end -->
+    
+    
+    <section id="k-s-custom-templates" class="section-space30"><!-- custom templates start -->
+    
+    	<div class="container"><!-- container start -->
+        
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>Custom Templates</h3>
+                    <p class="k-excerpt">These are used to give a particular page different look and purpose.</p>
+                    <hr />
+                </div>
+            
+            	<div class="col-lg-12 clearfix">
+                <p>
+                Buntington theme uses 3 custom templates: <strong>Contact</strong>, <strong>Full width page</strong> and <strong>Posts Page</strong>. Their names in regards of purpose are pretty much self-explanatory.<br />
+                The only difference is what gets added automatically to a certain custom templated Page when viewed...
+                </p>
+                <p>
+                <strong class="badge">Contact</strong> page will get a Google Map in page header and a mini contact form. See <strong>Appearance > Buntington Options >> Contact</strong> in order to setup both GoogleMap and personal contact info. If you enter some text when this Custom Template is assigned, it will be shown above the contact form.
+                </p>
+                <p>
+                <strong class="badge">Full width page</strong> remains empty, no extras are added. That Custom Template will remove the sidebar so use it whenever sidebar is not needed.
+                </p>
+                <p>
+                <strong class="badge">Posts Page</strong> is used to render blog posts in standard form while on category page they get rendered in grid.
+                </p>
+                <div class="gap10"></div>
+                <h4>// How to assign Custom Template?</h4>
+                <p>
+                Just for case you are new to Custom Templates...the thing is pretty straightforward. You can assign a custom template to any individual Page by using the <strong>Template</strong> dropdown in the New/Edit Page screen, Page Attributes panel (right hand sidebar). Here's the shot which should make it as clear as possible
+                <div class="gap10"></div>
+                <img src="assets/img/custom_templates.png" alt="Custom Templates" class="img-responsive img-thumbnail" />
+                <div class="gap10"></div>
+                </p>
+                <p>
+                So, whenever you need one of these Custom Templates you are going to:
+                </p>
+                <ol>
+                	<li>Select a Template from the list </li>
+                    <li>Click the "Update" button (or "Save Draft" if not yet published)</li>
+                </ol>
+                </div>
+            
+            </div><!-- row end -->
+            
+        </div><!-- container end -->
+    
+    </section><!-- custom templates end -->
+    
+    
+    <section id="k-s-howto" class="section-space30"><!-- how tos start -->
+    
+    	<div class="container"><!-- container start -->
+        
+        	<div class="row"><!-- row start -->
+            
+                <div class="col-lg-12">
+                    <h3>How To...</h3>
+                    <p class="k-excerpt">Important information that might save time and keep you calmed down.</p>
+                    <hr />
+                </div>
+            
+            	<div class="col-lg-12 clearfix">
+                
+                <h4>// How to translate my theme copy?</h4>
+                <p>
+                First of all you gonna need gettext catalogs (.po files) editor. My favorite is <a href="http://www.poedit.net/" title="POedit home page" target="_blank">POedit</a> because it's free and cross-platform friendly. For the purpose of translation you can use any other gettext editor.
+                </p>
+                <p>
+                Open a file named "en_EN.po" which can be found in "Buntington/languages" folder. Translate then save/export two files; "YOUR_LOCALE.po" and "YOUR_LOCALE.mo".<br />
+                <strong class="text-danger">Be sure to keep your language files in "Buntington/languages" folder!</strong>
+                </p>
+                <p>
+                <strong>What exactly stands <em>YOUR_LOCALE</em> for?</strong>
+                </p>
+                <p>
+                Well it's more like a tag that helps WordPress identify language being used with it. For example, if you need to localize your theme copy to Dutch, you'll save translated files as "nl_NL.po" and "nl_NL.mo". If you need to translate to French it's gonna be "fr_FR.po" and "fr_FR.mo".
+                </p>
+                <p>
+                Check out <a href="http://codex.wordpress.org/WordPress_in_Your_Language" title="WP in your language" target="_blank">WordPress Codex</a> for complete list of locales.
+                </p>
+                
+                <div class="gap30"></div>
+                
+                <h4>// How to use layout builder with "regular" Page?</h4>
+                <p>
+                <img src="assets/img/page_builder_template.png" alt="Navigation tagline" class="img-responsive img-thumbnail" />
+                </p>
+                <p>
+                Layout builder from Home Pages can be used with "regular" Page as well. However, IT IS IMPORTANT TO SELECT A PROPER CUSTOM TEMPLATE! If "Page Builder" template not selected, your "regular" Page remains as is. Once you select "Page Builder" template, the content from text editor will be ignored and your custom layout/content will be show.
+                </p>
+                
+                <div class="gap30"></div>
+                
+                <h4>// How to add a tagline to the main navigation item(s)?</h4>
+                <p>
+                <img src="assets/img/navig_tagline.png" alt="Navigation tagline" class="img-responsive img-thumbnail" />
+                </p>
+                <p>
+                If you wonder how the tagline was added below each Main Menu item check out the figure below. It should be pretty straightforward; just use <em>Title Attribute</em> input field which is available in menu item panel.
+                </p>
+                <p>
+                <img src="assets/img/navig_tagline_2.png" alt="Navigation tagline 2" class="img-responsive img-thumbnail" />
+                </p>
+                
+                <div class="gap30"></div>
+                
+                <h4>// How to style text in tinyMCE (Post/Page text editor)?</h4>
+                <p>
+                Buntington theme is equipped with an ample library of different styles that can be applied directly on portion of text or elements in text editor (tiniMCE).
+                </p>
+                <p>
+                So, for example, if you want to turn a regular title (H1 thru H6) into a <em>Title Median</em>, place the cursor within existing title element then from <strong>Formats</strong> drop-down select <em>Title Median</em>.
+                </p>
+                <p>
+                Additionally, if you need to remove title's bottom margin leave cursor within the title element then from Styles drop-down select <em>Remove element margin bottom</em>.
+                </p>
+                <p>
+                <img src="assets/img/styles.png" alt="Ready made styles" class="img-responsive img-thumbnail" />
+                </p>
+                
+                <div class="gap30"></div>
+                
+                <h4>// How to make Twitter and Flickr widgets work?</h4>
+                <p>For both of these two authorization is required. No worries, hard job is already done. The only thing you'll need to assure are some strange "keys" and "tokens" which, by the way, are available from your Twitter and Flickr accounts.<br />
+                More details can be found <a href="http://www.flickr.com/services/api/misc.api_keys.html" title="Flickr API keys" target="_blank">HERE</a> and <a href="https://dev.twitter.com/apps/new" title="Twitter apps" target="_blank">HERE</a> (for Flickr and Twitter respectively).
+                </p>
+                <p>
+                So, once you got it refer to <strong>Theme Options > API Keys</strong> and populate correspondingly.
+                </p>
+                
+                <div class="gap30"></div>
+                
+                <h4>// How to extend Theme Options, Metaboxes or add more Shortcodes?</h4>
+                <p>
+                Theme's backend relies on <a href="https://github.com/vafour/vafpress-framework" title="Vafpress" target="_blank">Vafpress framework</a> whose <a href="http://vafpress.com/documentation/vafpress-framework/getting-started.html" title="Vafpress documentation" target="_blank">documentation</a> should help you get started. Of course, PHP knowledge is a must! By studying existing code that is made according to Vafpress standards you'll be able to get your own.
+                </p>
+                <p>
+                All the relevant files reside in "Buntington/admin" folder.
+                </p>
+                
+                <div class="gap30"></div>
+                
+                <h4>// How to replace Buntington theme logo on WordPress login panel?</h4>
+                <p>
+                Open "Buntington/public/img" folder and <u>replace</u> "site-logo.png" with your own logo file. Remember, your own logo must be a namesake which means it should be named <em>site-logo</em> and keep <strong>PNG</strong> file type.
+                </p>
+                
+                <div class="gap30"></div>
+                
+                <h4>// What to do when Posts, Custom Post Type posts or Pages are missing after demo site import?</h4>
+                <p>
+                You will have to delete all the previously imported content (including Menus, photos, etc.) and try again. Keep on mind that WP Importer plugin is not perfect and the same goes to WP Export tool. 
+                <br />
+                In case you'd rather like to import entire database feel free to <a href="http://themeforest.net/user/feeleep" target="_blank" title="Contact Form">contact me via PM</a> and I'll mail it to you.
+                </p>
+                
+                </div>
+            
+            </div><!-- row end -->
+            
+        </div><!-- container end -->
+    
+    </section><!-- how tos end -->    
+    
+    
+    <section id="k-s-credits" class="section-space30"><!-- credits start -->
+    
+    	<div class="container"><!-- container start -->
+        
+        	<div class="row">
+            
+                <div class="col-lg-12">
+                    <h3>Theme Credits <small>Javascript &amp; photos</small></h3>
+                    <hr />
+                </div>
+            
+            	<div class="col-lg-12">
+
+                    <h4>// Javascript</h4>
+
+                	<div class="gap10"></div>
+                    
+                    <table class="table table-hover table-bordered">
+                        <tbody>
+                            <tr>
+                            	<td><strong>bootstrap/js/bootstrap.min.js</strong></td>
+                            	<td><small>All compiled plugins required by <a href="http://getbootstrap.com/" title="Bootstrap" target="_blank">Bootstrap</a> framework.</small></td>
+                            </tr>
+                            <tr>
+                            	<td><strong>js/dropdown/dropdown-menu.js</strong></td>
+                            	<td><small>Lightweight, Simple, Styleable - jQuery + CSS <a href="https://github.com/groovenectar/jquery-css-dropdown-plugin" title="Dropdown Menu Plugin" target="_blank">Dropdown Menu Plugin</a>.</small></td>
+                            </tr>
+                            <tr>
+                            	<td><strong>js/fancybox/jquery.fancybox.pack.js</strong><br /><strong>js/fancybox/jquery.fancybox-media.js</strong></td>
+                            	<td><small><a href="http://fancyapps.com/fancybox/" title="FancyBox" target="_blank">FancyBox</a> plugin - a tool that offers nice and elegant way to add zooming functionality for images, html content and multi-media.<br />
+                                It is built upon jQuery, easy to implement and customize.</small></td>
+                            </tr>
+                            <tr>
+                            	<td><strong>js/audioplayer/audioplayer.min.js</strong></td>
+                            	<td><small><a href="http://www.osvaldas.info" title="Audioplayer" target="_blank">Audioplayer</a> - HTML5 audioplayer by Osvaldas Valutis.</small></td>
+                            </tr>
+                            <tr>
+                            	<td><strong>js/jquery.fitvids.js</strong></td>
+                            	<td><small><a href="https://github.com/davatron5000/FitVids.js" title="FitVids" target="_blank">FitVids</a> - fluid width video embeds (YouTube, Vimeo, Blip.tv, Viddler and Kickstarter).</small></td>
+                            </tr>
+                            <tr>
+                            	<td><strong>js/jquery.easy-pie-chart.js</strong></td>
+                            	<td><small><a href="https://github.com/rendro/easy-pie-chart" title="Easy pie chart" target="_blank">Easy pie chart</a> - jQuery plugin that uses the canvas element to render simple pie charts for single values.</small></td>
+                            </tr>
+                            <tr>
+                            	<td><strong>js/theme.js</strong></td>
+                            	<td><small>This file is supposed to initalize most of the plugins and contains small chunks of code needed by the template itself.</small></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                
+                </div>
+            </div>
+            
+        	<div class="row"><!-- row start -->
+            
+            	<div class="col-lg-12">
+                	<h4>// Images/photos by </h4>
+                	<p>
+                	<a href="https://www.flickr.com/photos/francisco_osorio/" title="Francisco Osorio @ Flickr" target="_blank">Francisco Osorio</a>
+                	</p>
+                    <div class="gap10"></div>
+                </div>
+                
+            	<div class="col-lg-6">
+
+                    <ul>
+						<li>https://www.flickr.com/photos/francisco_osorio/8425536360/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8424416853/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8724861154/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8724862214/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8748862640/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9513729802/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9510947151/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9513747248/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9513756226/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9510966437/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9735272477/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9738528130/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/14093140180/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9738528600/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/11311269643/sizes/l</li>
+                    </ul>
+                    
+            	</div>
+                
+            	<div class="col-lg-6">
+
+                    <ul>
+						<li>https://www.flickr.com/photos/francisco_osorio/8424479925/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8424480779/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/11979685575/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/11980066934/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/13475126023/sizes/h/</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8672902307/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9510953689/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9510964141/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9735272889/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/11980455396/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/13069143783/sizes/h/</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8425544104/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8424419953/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/8425540226/sizes/l</li>
+						<li>https://www.flickr.com/photos/francisco_osorio/9510939965/sizes/o/</li>
+                    </ul>
+                    
+            	</div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- credits end -->
+    
+    <section class="section-space30"><!-- credits start -->
+    
+    	<div class="container"><!-- container start -->
+            
+        	<div class="row"><!-- row start -->
+                
+                <div class="col-lg-12">
+                	<hr />
+                    <p>
+                    Once again, thank you so much for purchasing Buntington theme. I'd be glad to help you if you have any further questions relating to this item. No guarantees, but I'll do my best to assist. You might also consider visiting the forums and asking your question in the "Item Discussion" section.
+                    </p>
+                </div>
+            
+            </div><!-- row end -->
+        
+        </div><!-- container end -->
+    
+    </section><!-- credits end -->
+    
+    <section id="k-s-footer" class="section-space30"><!-- footer start -->
+    
+    	<div class="container text-center"><!-- container start -->
+        
+        	<div class="row"><!-- row start -->
+            
+            	<div class="col-lg-12">
+            
+                    <p class="text-center">
+                    	<small>&copy; Sofarider 2013/2014.</small>
+                    </p>
+                
+                </div>
+               
+           </div><!-- row end -->
+        
+        </div><!-- container end -->
+        
+    </section><!-- footer end -->
+
+	<!-- javascript -->
+    <script src="assets/js/jquery-1.10.1.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script><!-- Bootstrap JS -->
+    <script src="assets/js/prettify.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/docs.js"></script>
+    
+</body>
+</html>
