@@ -1,0 +1,3346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Buntington\n"
+"POT-Creation-Date: 2016-06-26 10:20+0200\n"
+"PO-Revision-Date: 2016-06-26 10:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:27 content-none.php:13
+msgid "NOTHING FOUND!"
+msgstr ""
+
+#: 404.php:33
+msgid "Ooops!"
+msgstr ""
+
+#: 404.php:35
+msgid ""
+"What an embarrassing situation, requested page can not be found or it "
+"doesn't exist."
+msgstr ""
+
+#: admin/classes/shortcodegeneratorbase.php:205
+msgid "insert"
+msgstr ""
+
+#: admin/classes/shortcodegeneratorbase.php:206
+msgid "cancel"
+msgstr ""
+
+#: admin/metabox/content_chunk-sc-maker.php:5 inc/ct_and_cpt.php:534
+msgid "Content Shortcode"
+msgstr ""
+
+#: admin/metabox/content_chunk-sc-maker.php:20
+msgid "How to use Content Chunks?"
+msgstr ""
+
+#: admin/metabox/content_chunk-sc-maker.php:21
+msgid ""
+"Copy-paste Content Chunk shortcode to display content in widget ready "
+"sections or other pages or posts."
+msgstr ""
+
+#: admin/metabox/courses.php:5
+msgid "School Course details"
+msgstr ""
+
+#: admin/metabox/courses.php:12 archive-course.php:48 inc/ct_and_cpt.php:391
+#: search-course.php:64 single-course.php:45 taxonomy-courses.php:45
+msgid "Course ID"
+msgstr ""
+
+#: admin/metabox/courses.php:20
+msgid "Course Features"
+msgstr ""
+
+#: admin/metabox/courses.php:21
+msgid "Enter as many course features as needed in form of name-value pair."
+msgstr ""
+
+#: admin/metabox/courses.php:26
+msgid "Feature Name"
+msgstr ""
+
+#: admin/metabox/courses.php:31
+msgid "Feature Value"
+msgstr ""
+
+#: admin/metabox/courses.php:40
+msgid "Course Documents"
+msgstr ""
+
+#: admin/metabox/courses.php:41
+msgid "Upload documents for download. ZIP up documents before upload!"
+msgstr ""
+
+#: admin/metabox/courses.php:46
+msgid "Course document"
+msgstr ""
+
+#: admin/metabox/courses.php:51
+msgid "Course document title"
+msgstr ""
+
+#: admin/metabox/courses.php:56
+msgid "Course document description"
+msgstr ""
+
+#: admin/metabox/events.php:5
+msgid "Event timing"
+msgstr ""
+
+#: admin/metabox/events.php:12
+msgid "Select/enter event start date"
+msgstr ""
+
+#: admin/metabox/events.php:14 admin/metabox/events.php:21
+msgid "It MUST use \"dd-mm-yyyy\" format!"
+msgstr ""
+
+#: admin/metabox/events.php:19
+msgid "Select/enter event end date"
+msgstr ""
+
+#: admin/metabox/events.php:26
+msgid "Event time start"
+msgstr ""
+
+#: admin/metabox/events.php:27
+msgid "For example: 9:00 AM"
+msgstr ""
+
+#: admin/metabox/events.php:32
+msgid "Event time end"
+msgstr ""
+
+#: admin/metabox/events.php:33
+msgid "For example: 4:30 PM"
+msgstr ""
+
+#: admin/metabox/galleries.php:30
+msgid "Edit this image!"
+msgstr ""
+
+#: admin/metabox/galleries.php:37
+msgid "No uploaded images yet."
+msgstr ""
+
+#: admin/metabox/galleries.php:55
+msgid "Bulk upload photos..."
+msgstr ""
+
+#: admin/metabox/hom_page.php:6
+msgid "Home Page Builder"
+msgstr ""
+
+#: admin/metabox/hom_page.php:14
+msgid "Section"
+msgstr ""
+
+#: admin/metabox/hom_page.php:20
+msgid "Select this section layout"
+msgstr ""
+
+#: admin/metabox/hom_page.php:26
+msgid "1 column"
+msgstr ""
+
+#: admin/metabox/hom_page.php:31
+msgid "2 columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:36
+msgid "3 columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:41
+msgid "4 columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:46
+msgid "1/3 and 2/3 columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:51
+msgid "2/3 and 1/3 columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:56
+msgid "1/4 and 3/4 columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:61
+msgid "3/4 and 1/4 columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:74
+msgid "Merge layout columns at the first lower resolution?"
+msgstr ""
+
+#: admin/metabox/hom_page.php:82
+msgid "Make columns stripped."
+msgstr ""
+
+#: admin/metabox/hom_page.php:88
+msgid "Stripped columns"
+msgstr ""
+
+#: admin/metabox/hom_page.php:92
+msgid "Odd columns (1, 3)"
+msgstr ""
+
+#: admin/metabox/hom_page.php:96
+msgid "Even Columns (2, 4)"
+msgstr ""
+
+#: admin/metabox/hom_page.php:110
+msgid "Force background? (fill-up column height gap)"
+msgstr ""
+
+#: admin/metabox/hom_page.php:118
+msgid "Remove section margins?"
+msgstr ""
+
+#: admin/metabox/hom_page.php:129 admin/metabox/hom_page.php:158
+#: admin/metabox/hom_page.php:201 admin/metabox/hom_page.php:258
+#: admin/metabox/hom_page.php:329 admin/metabox/hom_page.php:372
+#: admin/metabox/hom_page.php:415 admin/metabox/hom_page.php:458
+msgid "Section Layout"
+msgstr ""
+
+#: admin/metabox/hom_page.php:140 admin/metabox/hom_page.php:145
+#: admin/metabox/hom_page.php:169 admin/metabox/hom_page.php:174
+#: admin/metabox/hom_page.php:183 admin/metabox/hom_page.php:188
+#: admin/metabox/hom_page.php:212 admin/metabox/hom_page.php:217
+#: admin/metabox/hom_page.php:226 admin/metabox/hom_page.php:231
+#: admin/metabox/hom_page.php:240 admin/metabox/hom_page.php:245
+#: admin/metabox/hom_page.php:269 admin/metabox/hom_page.php:274
+#: admin/metabox/hom_page.php:283 admin/metabox/hom_page.php:288
+#: admin/metabox/hom_page.php:297 admin/metabox/hom_page.php:302
+#: admin/metabox/hom_page.php:311 admin/metabox/hom_page.php:316
+#: admin/metabox/hom_page.php:340 admin/metabox/hom_page.php:345
+#: admin/metabox/hom_page.php:354 admin/metabox/hom_page.php:359
+#: admin/metabox/hom_page.php:383 admin/metabox/hom_page.php:388
+#: admin/metabox/hom_page.php:397 admin/metabox/hom_page.php:402
+#: admin/metabox/hom_page.php:426 admin/metabox/hom_page.php:431
+#: admin/metabox/hom_page.php:440 admin/metabox/hom_page.php:445
+#: admin/metabox/hom_page.php:469 admin/metabox/hom_page.php:474
+#: admin/metabox/hom_page.php:483 admin/metabox/hom_page.php:488
+msgid "Shortcode"
+msgstr ""
+
+#: admin/metabox/slider-sc-maker.php:5 inc/ct_and_cpt.php:490
+msgid "Slider Shortcode"
+msgstr ""
+
+#: admin/metabox/slider-sc-maker.php:20
+msgid "How to use this slider?"
+msgstr ""
+
+#: admin/metabox/slider-sc-maker.php:21
+msgid ""
+"Slider shortcode is generated automatically. In order to insert this slider "
+"copy and paste shortcode into Page, Post or Widget content."
+msgstr ""
+
+#: admin/metabox/sliders.php:5
+msgid "Slider definition"
+msgstr ""
+
+#: admin/metabox/sliders.php:12
+msgid "Slider controls"
+msgstr ""
+
+#: admin/metabox/sliders.php:16
+msgid "Show Pagination only"
+msgstr ""
+
+#: admin/metabox/sliders.php:20
+msgid "Show Left and Right controls"
+msgstr ""
+
+#: admin/metabox/sliders.php:24
+msgid "Show Pagination and Controls"
+msgstr ""
+
+#: admin/metabox/sliders.php:34
+msgid "Slider effect"
+msgstr ""
+
+#: admin/metabox/sliders.php:38
+msgid "Default"
+msgstr ""
+
+#: admin/metabox/sliders.php:42
+msgid "Fade"
+msgstr ""
+
+#: admin/metabox/sliders.php:46
+msgid "Crossfade"
+msgstr ""
+
+#: admin/metabox/sliders.php:50
+msgid "Perspective"
+msgstr ""
+
+#: admin/metabox/sliders.php:54
+msgid "DNA"
+msgstr ""
+
+#: admin/metabox/sliders.php:58
+msgid "Push"
+msgstr ""
+
+#: admin/metabox/sliders.php:68
+msgid "Slider mode"
+msgstr ""
+
+#: admin/metabox/sliders.php:72
+msgid "Manual"
+msgstr ""
+
+#: admin/metabox/sliders.php:76
+msgid "Automatic"
+msgstr ""
+
+#: admin/metabox/sliders.php:86
+msgid "Sliding Interval (if in Automatic mode)"
+msgstr ""
+
+#: admin/metabox/sliders.php:90
+msgid "2 seconds"
+msgstr ""
+
+#: admin/metabox/sliders.php:94
+msgid "4 seconds"
+msgstr ""
+
+#: admin/metabox/sliders.php:98
+msgid "6 seconds"
+msgstr ""
+
+#: admin/metabox/sliders.php:102
+msgid "8 seconds"
+msgstr ""
+
+#: admin/metabox/sliders.php:106
+msgid "10 seconds"
+msgstr ""
+
+#: admin/metabox/sliders.php:116
+msgid "Remove Slider margins"
+msgstr ""
+
+#: admin/metabox/sliders.php:120
+msgid "Use top and bottom margin!"
+msgstr ""
+
+#: admin/metabox/sliders.php:124
+msgid "Remove top margin"
+msgstr ""
+
+#: admin/metabox/sliders.php:128
+msgid "Remove bottom margin"
+msgstr ""
+
+#: admin/metabox/sliders.php:132 inc/tinyMCE_stuff.php:106
+msgid "Remove top and bottom margin"
+msgstr ""
+
+#: admin/metabox/sliders.php:144
+msgid "Slides"
+msgstr ""
+
+#: admin/metabox/sliders.php:145
+msgid "Upload slider image, enter slide title and description - if any."
+msgstr ""
+
+#: admin/metabox/sliders.php:150
+msgid "Slide image"
+msgstr ""
+
+#: admin/metabox/sliders.php:155
+msgid "Slide title"
+msgstr ""
+
+#: admin/metabox/sliders.php:160
+msgid "Slide description"
+msgstr ""
+
+#: admin/metabox/sliders.php:165
+msgid "Slide link (must be full URL)"
+msgstr ""
+
+#: admin/metabox/sliders.php:170
+msgid "Caption position/size"
+msgstr ""
+
+#: admin/metabox/sliders.php:174
+msgid "1/3 wide, RIGHT aligned"
+msgstr ""
+
+#: admin/metabox/sliders.php:178
+msgid "1/3 wide, LEFT aligned"
+msgstr ""
+
+#: admin/metabox/sliders.php:182
+msgid "2/3 wide, RIGHT aligned"
+msgstr ""
+
+#: admin/metabox/sliders.php:186
+msgid "2/3 wide, LEFT aligned"
+msgstr ""
+
+#: admin/metabox/sliders.php:190
+msgid "2/3 wide, CENTERED"
+msgstr ""
+
+#: admin/metabox/sliders.php:194
+msgid "Full width, text LEFT"
+msgstr ""
+
+#: admin/metabox/sliders.php:198
+msgid "Full width, text RIGHT"
+msgstr ""
+
+#: admin/metabox/sliders.php:202
+msgid "Full width, CENTERED"
+msgstr ""
+
+#: admin/metabox/sliders.php:212
+msgid "Caption text scheme"
+msgstr ""
+
+#: admin/metabox/sliders.php:216
+msgid "Text light"
+msgstr ""
+
+#: admin/metabox/sliders.php:220
+msgid "Text dark"
+msgstr ""
+
+#: admin/metabox/sliders.php:230
+msgid "Caption title size"
+msgstr ""
+
+#: admin/metabox/sliders.php:234
+msgid "Regular"
+msgstr ""
+
+#: admin/metabox/sliders.php:238
+msgid "Oversized"
+msgstr ""
+
+#: admin/metabox/sliders.php:248
+msgid "Remove background? (will keep the text scheme)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:9
+msgid "Column Single"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:10 admin/shortcodes/shortcodes.php:15
+#: admin/shortcodes/shortcodes.php:20 admin/shortcodes/shortcodes.php:25
+#: admin/shortcodes/shortcodes.php:30 admin/shortcodes/shortcodes.php:35
+#: admin/shortcodes/shortcodes.php:40 admin/shortcodes/shortcodes.php:45
+#: admin/shortcodes/shortcodes.php:50 admin/shortcodes/shortcodes.php:66
+msgid "Column content goes here..."
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:14
+msgid "Columns 1/2 + 1/2"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:19
+msgid "Columns 1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:24
+msgid "Columns 1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:29
+msgid "Columns 1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:34
+msgid "Columns 1/3 + 2/3"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:39
+msgid "Columns 2/3 + 1/3"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:44
+msgid "Columns 1/4 + 3/4"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:49
+msgid "Columns 3/4 + 1/4"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:54
+msgid "Row"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:55
+msgid "Column(s) should be placed here..."
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:60
+msgid "Equal height items row"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:65
+msgid "Custom Column"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:71
+msgid "Column width"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:79
+msgid "Column offset"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:87
+msgid "Select text alignment"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:91 admin/shortcodes/shortcodes.php:764
+msgid "Align to Left"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:95 admin/shortcodes/shortcodes.php:768
+msgid "Align to Center"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:99 admin/shortcodes/shortcodes.php:772
+msgid "Align to Right"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:114
+msgid "Content gaps"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:120
+msgid "Select content gap height"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:124
+msgid "10px Gap"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:128
+msgid "20px Gap"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:132
+msgid "30px Gap"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:136
+msgid "40px Gap"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:140
+msgid "50px Gap"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:144
+msgid "60px Gap"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:154
+msgid "Content separators"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:160
+msgid "Select separator style"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:164
+msgid "Regular, 1px line"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:168
+msgid "Double strike"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:172
+msgid "Dashed line"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:176
+msgid "Dotted line"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:180
+msgid "Zig-zag line"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:184
+msgid "Fat one"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:199
+#: admin/shortcodes/shortcodes_hom_page.php:126
+msgid "Insert Content"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:205 admin/shortcodes/shortcodes.php:231
+#: admin/shortcodes/shortcodes.php:282 admin/shortcodes/shortcodes.php:330
+#: admin/shortcodes/shortcodes_hom_page.php:14
+#: admin/shortcodes/shortcodes_hom_page.php:65
+#: admin/shortcodes/shortcodes_hom_page.php:113
+#: admin/shortcodes/shortcodes_hom_page.php:132
+#: admin/shortcodes/shortcodes_hom_page.php:183
+#: admin/shortcodes/shortcodes_hom_page.php:207
+#: admin/shortcodes/shortcodes_hom_page.php:312
+#: admin/shortcodes/shortcodes_hom_page.php:340
+#: admin/shortcodes/shortcodes_hom_page.php:358
+msgid "The title"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:210
+#: admin/shortcodes/shortcodes_hom_page.php:137
+msgid "Content Chunk"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:225
+#: admin/shortcodes/shortcodes_hom_page.php:8
+msgid "Blog"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:236 admin/shortcodes/shortcodes.php:287
+#: admin/shortcodes/shortcodes_hom_page.php:19
+#: admin/shortcodes/shortcodes_hom_page.php:70
+msgid "Number of posts to show"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:242
+#: admin/shortcodes/shortcodes_hom_page.php:25
+msgid "Include posts from selected categories"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:255
+#: admin/shortcodes/shortcodes_hom_page.php:38
+msgid "Exclude specific post(s)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:268
+#: admin/shortcodes/shortcodes_hom_page.php:51
+msgid "Remove wrapper top margin?"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:276
+#: admin/shortcodes/shortcodes_hom_page.php:59
+msgid "Recent News"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:293
+#: admin/shortcodes/shortcodes_hom_page.php:76
+msgid "Exclude posts from selected categories"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:306
+#: admin/shortcodes/shortcodes_hom_page.php:89
+msgid "Select news style"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:310
+#: admin/shortcodes/shortcodes_hom_page.php:93
+msgid "No summary text"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:314
+#: admin/shortcodes/shortcodes_hom_page.php:97
+msgid "With the summary text"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:324
+#: admin/shortcodes/shortcodes_hom_page.php:107 archive-event.php:32
+#: taxonomy-events.php:29
+msgid "Upcoming Events"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:335
+#: admin/shortcodes/shortcodes_hom_page.php:118 inc/theme_widgets.php:535
+#: inc/theme_widgets.php:641
+msgid "Number of events to show"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:343
+msgid "Blockquotes"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:344 admin/shortcodes/shortcodes.php:380
+#: admin/shortcodes/shortcodes.php:393 admin/shortcodes/shortcodes.php:574
+#: admin/shortcodes/shortcodes.php:902 admin/shortcodes/shortcodes.php:924
+msgid "Content goes here..."
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:349
+msgid "Quote author"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:355
+msgid "Quote surce"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:361
+msgid "Select Blockquote float"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:365
+msgid "Float left"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:369
+msgid "Float right"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:379
+msgid "Bullet-paragraph"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:385 admin/shortcodes/shortcodes.php:491
+#: admin/shortcodes/shortcodes.php:526 admin/shortcodes/shortcodes.php:834
+#: admin/shortcodes/shortcodes_hom_page.php:387
+msgid "Select Fontawesome Icon"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:392
+msgid "Team Member"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:398
+msgid "Upload team member photo (min 100px wide!)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:403
+msgid "Team member name"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:409
+msgid "Team member position"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:415
+msgid "Team member tagline"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:423
+msgid "Buttons"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:429
+msgid "Select Button style"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:433
+msgid "Button Default"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:437
+msgid "Button Primary"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:441
+msgid "Button Info"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:445
+msgid "Button Danger"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:449
+msgid "Button Success"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:453
+msgid "Button Warning"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:461
+msgid "Select Button size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:465
+msgid "Large size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:469
+msgid "Medium size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:473
+msgid "Small size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:477
+msgid "Extra Small size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:485 admin/shortcodes/shortcodes.php:531
+#: admin/shortcodes/shortcodes_hom_page.php:392
+msgid "Button label"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:496 admin/shortcodes/shortcodes.php:549
+#: admin/shortcodes/shortcodes_hom_page.php:410
+msgid "Button link (absolute URL!)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:502 admin/shortcodes/shortcodes.php:555
+#: admin/shortcodes/shortcodes_hom_page.php:416
+msgid "Link should be opened in"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:506 admin/shortcodes/shortcodes.php:559
+#: admin/shortcodes/shortcodes_hom_page.php:420
+msgid "The same page"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:510 admin/shortcodes/shortcodes.php:563
+#: admin/shortcodes/shortcodes_hom_page.php:424
+msgid "New Browser tab/window"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:520
+#: admin/shortcodes/shortcodes_hom_page.php:381
+msgid "Super Button"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:537
+#: admin/shortcodes/shortcodes_hom_page.php:398
+msgid "Button tagline"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:543
+#: admin/shortcodes/shortcodes_hom_page.php:404
+msgid "Button color"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:573
+msgid "Alerts"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:579
+msgid "Select Alert style"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:583
+msgid "Alert success"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:587
+msgid "Alert Info"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:591
+msgid "Alert Warning"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:595
+msgid "Alert Danger"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:603
+msgid "Dismissable Alert"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:610
+msgid "Progress Bars"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:616
+msgid "Progress Bar style"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:620
+msgid "Progress Bar default"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:624
+msgid "Progress Bar success"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:628
+msgid "Progress Bar info"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:632
+msgid "Progress Bar warning"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:636
+msgid "Progress Bar danger"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:644
+msgid "Progress Bar value"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:652
+msgid "Progress Bar striped"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:659
+#: admin/shortcodes/shortcodes_hom_page.php:227
+msgid "Google Map"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:665
+#: admin/shortcodes/shortcodes_hom_page.php:233
+#: admin/theme_options/buntington_options.php:602
+msgid "Google Map title"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:671
+#: admin/shortcodes/shortcodes_hom_page.php:239
+#: admin/theme_options/buntington_options.php:613
+msgid "Location Latitude"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:677
+#: admin/shortcodes/shortcodes_hom_page.php:245
+#: admin/theme_options/buntington_options.php:624
+msgid "Location Longitude"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:683
+#: admin/shortcodes/shortcodes_hom_page.php:251
+#: admin/theme_options/buntington_options.php:635
+msgid "Map Zoom level"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:691
+#: admin/shortcodes/shortcodes_hom_page.php:259
+#: admin/theme_options/buntington_options.php:647
+msgid "Upload custom Marker"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:696
+#: admin/shortcodes/shortcodes_hom_page.php:264
+msgid "Map marker name/company"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:702
+#: admin/shortcodes/shortcodes_hom_page.php:270
+msgid "Map marker address"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:708
+#: admin/shortcodes/shortcodes_hom_page.php:276
+msgid "Map marker city"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:714
+#: admin/shortcodes/shortcodes_hom_page.php:282
+msgid "Map marker state"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:720
+#: admin/shortcodes/shortcodes_hom_page.php:288
+msgid "Map marker zip code"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:726
+#: admin/shortcodes/shortcodes_hom_page.php:294
+msgid "Map marker country"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:734
+msgid "Simple Pie Chart"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:740
+msgid "Pick Chart color"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:746
+msgid "Chart value"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:754
+msgid "Chart label"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:760
+msgid "Select label alignment (pie chart will always be centered!)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:780
+msgid "Chart line width"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:788
+msgid "Chart width and height (BEWARE: it is not responsive!)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:796
+#: admin/shortcodes/shortcodes_hom_page.php:177
+msgid "Embed (Video, Soundcloud)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:797
+msgid "Paste SHARE link here (YouTube, Vimeo, Blip.tv, Soundcloud...)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:802
+#: admin/shortcodes/shortcodes_hom_page.php:193
+msgid "Should the content be responsive?"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:810
+msgid "Insert Audio Player"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:816
+msgid "Full path to \".ogg\" file version (required!)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:821
+msgid "Full path to \".mp3\" file version (required!)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:828
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:839
+msgid "Fontawesome icon size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:843
+msgid "Regular size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:847
+msgid "2x size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:851
+msgid "3x size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:855
+msgid "4x size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:859
+msgid "5x size"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:874
+msgid "STEP 1: Create tabs wrapper"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:875
+msgid "Start adding tab containers here..."
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:880
+msgid "Tabs navigation style"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:884
+msgid "Tabs regular"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:888
+msgid "Pills"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:896
+msgid "Justify tabs"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:901
+msgid "STEP 2: Add single tab container"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:907
+msgid "Tab Label"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:919
+msgid "STEP 1: Create accordion wrapper"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:920
+msgid "Start adding accordion containers here..."
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:923
+msgid "STEP 2: Add single accordion content"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:929
+msgid "Accordion Label"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:941
+#: admin/shortcodes/shortcodes_hom_page.php:152
+msgid "Insert Slider"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:947
+#: admin/shortcodes/shortcodes_hom_page.php:158
+msgid "Select slider by title"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:188
+msgid "SHARE link here (YouTube, Vimeo, Blip.tv, Soundcloud...)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:201
+msgid "Featured Gallery"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:212
+msgid "Select featured Gallery by title"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:306
+msgid "Make Pages Menu"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:317
+msgid "Select pages to create the Menu from"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:318
+msgid "Minimum selection: 2 items"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:334
+msgid "Course Search form"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:345
+msgid "Course search tip (how to search?)"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:352
+msgid "Twitter Twitts"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:363
+msgid "Twitter user name to pull the Twitts from"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:368
+msgid "Number of Twitts to show"
+msgstr ""
+
+#: admin/shortcodes/shortcodes_hom_page.php:373
+msgid "Exclude replies from Twitts?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:3 functions.php:52
+#: functions.php:53
+msgid "Buntington Options"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:8
+msgid "Basic Options"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:15
+msgid "Upload site logo &amp; favicon"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:21
+msgid "Browse to your own logo"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:26
+msgid "Browse to favicon.ico"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:34
+msgid "Font family - Content"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:36
+msgid "Select font face to activate other options."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:41
+#: admin/theme_options/buntington_options.php:134
+msgid "Font Face"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:42
+#: admin/theme_options/buntington_options.php:135
+msgid "Select Font"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:55
+#: admin/theme_options/buntington_options.php:148
+msgid "Font Styles"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:56
+#: admin/theme_options/buntington_options.php:149
+msgid "Select Font Styles"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:74
+#: admin/theme_options/buntington_options.php:167
+msgid "Font Weights"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:75
+#: admin/theme_options/buntington_options.php:168
+msgid "Select Font Weights"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:93
+#: admin/theme_options/buntington_options.php:186
+msgid "Font Subsets"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:94
+#: admin/theme_options/buntington_options.php:187
+msgid "Select Font Subsets"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:127
+msgid "Font family - Titles"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:129
+msgid ""
+"Select font face to activate other options. Leave empty if you want title "
+"font family match the content font."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:220
+msgid "Links coloring"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:226
+#: admin/theme_options/buntington_options.php:247
+#: admin/theme_options/buntington_options.php:298
+msgid "Select links color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:232
+msgid "Select links hover color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:241
+msgid "Main navigation coloring"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:253
+#: admin/theme_options/buntington_options.php:304
+msgid "Select hover color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:259
+msgid "Select drop-down background color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:265
+msgid "Select drop-down items color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:271
+msgid "Select drop-down background hover color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:277
+msgid "Select drop-down items hover color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:283
+msgid "Submenu indicator color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:292
+msgid "Functional navigation coloring"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:313
+msgid "Footer properties"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:318
+msgid "Use Background Image?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:320
+msgid "Uploaded image will be used as a background image."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:325
+msgid "Upload Background Image"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:335
+msgid "Background Image Repeat"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:339
+msgid "Repeat X"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:343
+msgid "Repeat Y"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:347
+msgid "Repeat X and Y"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:351
+msgid "No repeat!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:364
+msgid "Background Image Attachment"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:368
+msgid "Scroll"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:372
+msgid "Fixed"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:385
+msgid "Background Image Position"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:389
+msgid "Top-Left"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:393
+msgid "Top-Center"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:397
+msgid "Top-Right"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:401
+msgid "Center-Left"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:405
+msgid "Center-Center"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:409
+msgid "Center-Right"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:413
+msgid "Bottom-Left"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:417
+msgid "Bottom-Center"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:421
+msgid "Bottom-Right"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:434
+msgid "Background Image Size"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:438
+msgid "Normal - will keep original size"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:442
+msgid "Cover - will stretch to available width/height"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:446
+msgid "Contain - will scale"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:459
+msgid "Select background color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:465
+msgid "Select footer text color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:471
+msgid "Select footer links color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:477
+msgid "Select footer links hover color"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:482
+msgid "Lighten up assets"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:484
+msgid "Good for dark backgrounds."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:494
+msgid "Social Media Sites"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:501
+msgid "How should this work?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:502
+msgid "Enter full path to your social media profiles and leave unused empty."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:582
+msgid "Contact"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:589
+msgid "Google Maps"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:591
+msgid "Make your Contact page show up Google Map."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:596
+msgid "Show GoogleMap on Contact page?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:603
+msgid "Enter the title for your map"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:614
+msgid "Enter the map location latitude"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:625
+msgid "Enter the map location longitude"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:648
+msgid "Should be transparent PNG up to 32x32px"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:660
+msgid "Contact details"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:662
+msgid ""
+"The data you enter here will be used for both Google Maps and Quick Contact "
+"widget"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:667
+msgid "Company or private name"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:673
+msgid "Company or private address"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:679
+msgid "City"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:685
+msgid "State - if any"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:691
+msgid "Location ZIP code"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:697
+msgid "Residence Country"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:703
+msgid "Contact phone 1"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:709
+msgid "Contact phone 2 (or Fax)"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:715
+msgid "Email address"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:716
+msgid ""
+"BEWARE: This email address will also be used to receive Contact-form "
+"inquiries!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:727
+msgid "Other Things..."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:734
+msgid "Posts page settings"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:736
+msgid "Posts page is a Custom Template that can be used to display Blog posts."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:741
+msgid "Posts page layout"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:745
+msgid "Stacked"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:749
+msgid "Grid"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:757
+msgid "Number of posts per page"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:783
+#: admin/theme_options/buntington_options.php:790
+msgid "Enable Page Comments"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:785
+msgid "Page comments are enabled by default. Disable if needed."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:799
+msgid "Post summary length"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:801
+msgid ""
+"Trim post summary to N number of words. If post excerpt exists this setting "
+"will be ignored!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:806
+msgid "Trim post summary for Category and Index page"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:812
+msgid "Trim post summary for Search, Archive and Tag pages"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:818
+msgid "READ MORE tag"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:819
+msgid "Read More"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:827
+msgid "Content Sidebar positioning"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:829
+msgid "Where do you like to have Sidebar floated on pages that have Sidebar?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:834
+msgid "Sidebar position"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:838
+msgid "Sidebar on Right"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:842
+msgid "Sidebar on Left"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:853
+msgid "404 Error Image"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:855
+msgid "Upload photo that will be shown whenever page not found."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:860
+msgid "Upload 404 Error page image"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:861
+msgid "That image will show up on top of 404 error page content."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:869
+msgid "Copyright text"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:871
+msgid "Enter copyright information here!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:876
+msgid "Footer copyrights"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:877
+msgid "Your copyrights tagline will show up in theme's post-footer."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:888
+msgid "Code"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:895
+msgid "Posts sharing with AddThis"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:901
+msgid "What is AddThis?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:902
+msgid ""
+"This is the largest Sharing and Social Data platform. See more details here: "
+"http://www.addthis.com/ . Sign In or create an account first then copy-paste "
+"generated code ( https://www.addthis.com/get/sharing )."
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:908
+msgid "Use AddThis service?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:913
+msgid "Paste AddThis code here"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:924
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:930
+msgid "Use Google Analytics?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:935
+msgid "Paste Google Analytics code here"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:948
+msgid "API Keys"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:955
+msgid "How to obtain API Keys?"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:956
+msgid ""
+"Flickr API Key can be obtained here http://www.flickr.com/services/api/misc."
+"api_keys.html and for the Twitter API Key you should register your "
+"application here https://dev.twitter.com/apps/new"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:962
+msgid "Flickr API key"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:968
+msgid "Enter your Flickr API key"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:969
+msgid "It will be needed for Flickr Widget!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:987
+msgid "Twitter OAuth and Access Token"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:993
+msgid "Enter your Twitter Consumer key"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:994
+msgid "It will be needed for OAuth settings!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:999
+msgid "Enter your Twitter Consumer secret key"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1000
+msgid "It will be needed for OAuth settings as well!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1005
+msgid "Enter your Twitter Access Token"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1006
+msgid "It will be needed to sign requests with your own Twitter account!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1011
+msgid "Enter your Twitter Access Token secret"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1012
+msgid ""
+"It will be needed to sign requests with your own Twitter account as well!"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1020
+msgid "GoogleMaps API key"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1026
+msgid "Enter your GoogleMaps API key"
+msgstr ""
+
+#: admin/theme_options/buntington_options.php:1027
+msgid "It will be needed for GoogleMaps!"
+msgstr ""
+
+#: archive-course.php:32 taxonomy-courses.php:29
+msgid "Available Courses"
+msgstr ""
+
+#: archive-course.php:49 inc/ct_and_cpt.php:390 search-course.php:65
+#: taxonomy-courses.php:46
+msgid "Course Title"
+msgstr ""
+
+#: archive-course.php:61 inc/ct_and_cpt.php:330 inc/ct_and_cpt.php:336
+#: inc/ct_and_cpt.php:342 inc/ct_and_cpt.php:348 inc/ct_and_cpt.php:414
+#: inc/ct_and_cpt.php:468 inc/ct_and_cpt.php:507 inc/ct_and_cpt.php:518
+#: inc/ct_and_cpt.php:556 search-course.php:77 taxonomy-courses.php:58
+msgctxt "non-existing table value"
+msgid "-----"
+msgstr ""
+
+#: archive-gallery.php:32 taxonomy-galleries.php:29
+msgid "School Galleries"
+msgstr ""
+
+#: archive-gallery.php:71 inc/shortcodes_engine.php:721
+#: inc/theme_widgets.php:892 single-gallery.php:119 taxonomy-galleries.php:68
+msgctxt "galleries category page, NN photos"
+msgid "Photos"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:32
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:32
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:33 inc/breadcrumbs.php:766 inc/breadcrumbs.php:795
+#: inc/breadcrumbs.php:822 inc/breadcrumbs.php:849 inc/breadcrumbs.php:1036
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:34 inc/breadcrumbs.php:181
+msgid "Archives"
+msgstr ""
+
+#: comments.php:17
+msgid "Comments"
+msgstr ""
+
+#: comments.php:17
+msgid "0"
+msgstr ""
+
+#: comments.php:17
+msgid "1"
+msgstr ""
+
+#: comments.php:17
+msgid "%"
+msgstr ""
+
+#: comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: contact.php:23
+msgid "Enter your name!"
+msgstr ""
+
+#: contact.php:31
+msgid "Enter a valid email address!"
+msgstr ""
+
+#: contact.php:34
+msgid "Invalid email address!"
+msgstr ""
+
+#: contact.php:42 contact.php:49
+msgid "Not provided"
+msgstr ""
+
+#: contact.php:56 contact.php:59
+msgid "Wrong result!"
+msgstr ""
+
+#: contact.php:65
+msgid "Enter a message!"
+msgstr ""
+
+#: contact.php:78 contact.php:181 inc/comments_loop.php:98
+msgid "Name"
+msgstr ""
+
+#: contact.php:79 contact.php:186 inc/comments_loop.php:101
+msgid "Email"
+msgstr ""
+
+#: contact.php:80 contact.php:205
+msgid "Message"
+msgstr ""
+
+#: contact.php:81 contact.php:198
+msgid "Message Subject"
+msgstr ""
+
+#: contact.php:82 contact.php:194
+msgid "Phone/Cell"
+msgstr ""
+
+#: contact.php:85
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: contact.php:156
+msgid "Drop us Note"
+msgstr ""
+
+#: contact.php:164
+msgid "There was an error by form submission."
+msgstr ""
+
+#: contact.php:173
+msgid "Thanks for contacting us!"
+msgstr ""
+
+#: contact.php:174
+msgid ""
+"Your message was sent successfully. We will get in touch with you shortly."
+msgstr ""
+
+#: contact.php:217
+msgid "Enter result"
+msgstr ""
+
+#: contact.php:224
+msgid "Send Message"
+msgstr ""
+
+#: content-none.php:9
+msgid "Nothing Found!"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched search criteria. Please try again with different "
+"search terms."
+msgstr ""
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Maybe searching "
+"can help a bit."
+msgstr ""
+
+#: footer.php:23 inc/theme_sidebars.php:152
+msgid "Footer Column Left"
+msgstr ""
+
+#: footer.php:37 inc/theme_sidebars.php:162
+msgid "Footer Column Middle"
+msgstr ""
+
+#: footer.php:51 inc/theme_sidebars.php:172
+msgid "Footer Column Right"
+msgstr ""
+
+#: functions.php:64
+msgid "Theme Shortcodes"
+msgstr ""
+
+#: functions.php:65
+msgid "Theme SC"
+msgstr ""
+
+#: functions.php:77
+msgid "Home Page Shortcodes"
+msgstr ""
+
+#: functions.php:78
+msgid "Home Page SC"
+msgstr ""
+
+#: functions.php:123
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:124
+msgid "Functional Menu"
+msgstr ""
+
+#: functions.php:182
+msgid "Display site title"
+msgstr ""
+
+#: header.php:46
+msgid "Site Logo"
+msgstr ""
+
+#: header.php:86
+msgid "Type in keyword(s) then hit Enter on keyboard"
+msgstr ""
+
+#: image.php:27
+#, php-format
+msgid ""
+"<span class=\"news-meta-date\"><time class=\"entry-date\" datetime=\"%1$s\">"
+"%2$s</time></span><span class=\"news-meta-category\"><a href=\"%3$s\" title="
+"\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: image.php:43
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:44
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:49 inc/breadcrumbs.php:1135 inc/breadcrumbs.php:1171
+#: inc/breadcrumbs.php:1188 inc/breadcrumbs.php:1219
+msgid "Edit"
+msgstr ""
+
+#: image.php:63
+msgid "Previous image"
+msgstr ""
+
+#: image.php:64
+msgid "Next image"
+msgstr ""
+
+#: inc/breadcrumbs.php:178
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:179
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:180
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:183
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/breadcrumbs.php:185 inc/custom_functions.php:16
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:187
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:189
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:716
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:733
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:750
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:767 inc/breadcrumbs.php:823 inc/breadcrumbs.php:1040
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:768 inc/breadcrumbs.php:1044
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:796
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/breadcrumbs.php:1163
+msgid "Split"
+msgstr ""
+
+#: inc/breadcrumbs.php:1167
+msgid "Merge"
+msgstr ""
+
+#: inc/comments_loop.php:16
+msgid "Pingback:"
+msgstr ""
+
+#: inc/comments_loop.php:42
+msgid "Post author"
+msgstr ""
+
+#: inc/comments_loop.php:50
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comments_loop.php:60
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/comments_loop.php:65
+msgid "Reply"
+msgstr ""
+
+#: inc/comments_loop.php:104
+msgid "Website"
+msgstr ""
+
+#: inc/comments_loop.php:120
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/comments_loop.php:125 inc/comments_loop.php:126
+msgid "Comment"
+msgstr ""
+
+#: inc/comments_loop.php:131
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/comments_loop.php:133
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/comments_loop.php:135
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/comments_loop.php:141
+msgid "Post comment"
+msgstr ""
+
+#: inc/comments_loop.php:143
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: inc/comments_loop.php:145
+msgid "CANCEL?"
+msgstr ""
+
+#: inc/ct_and_cpt.php:8
+msgctxt "CPT general name"
+msgid "Home Pages"
+msgstr ""
+
+#: inc/ct_and_cpt.php:9
+msgctxt "CPT singular name"
+msgid "Home Page"
+msgstr ""
+
+#: inc/ct_and_cpt.php:10
+msgid "Add New"
+msgstr ""
+
+#: inc/ct_and_cpt.php:11 inc/ct_and_cpt.php:13
+msgid "New Home Page"
+msgstr ""
+
+#: inc/ct_and_cpt.php:12
+msgid "Edit Home Page"
+msgstr ""
+
+#: inc/ct_and_cpt.php:14
+msgid "All Home Pages"
+msgstr ""
+
+#: inc/ct_and_cpt.php:15
+msgid "View Home Page"
+msgstr ""
+
+#: inc/ct_and_cpt.php:16
+msgid "Search Home Pages"
+msgstr ""
+
+#: inc/ct_and_cpt.php:17
+msgid "No Home Page found"
+msgstr ""
+
+#: inc/ct_and_cpt.php:18
+msgid "No Home Page found in Trash"
+msgstr ""
+
+#: inc/ct_and_cpt.php:20
+msgid "Home Pages"
+msgstr ""
+
+#: inc/ct_and_cpt.php:43
+msgctxt "CPT general name"
+msgid "Event"
+msgstr ""
+
+#: inc/ct_and_cpt.php:44
+msgctxt "CPT singular name"
+msgid "Event"
+msgstr ""
+
+#: inc/ct_and_cpt.php:45
+msgid "Add New Event"
+msgstr ""
+
+#: inc/ct_and_cpt.php:46 inc/ct_and_cpt.php:48
+msgid "New Event"
+msgstr ""
+
+#: inc/ct_and_cpt.php:47
+msgid "Edit Event"
+msgstr ""
+
+#: inc/ct_and_cpt.php:49
+msgid "All Events"
+msgstr ""
+
+#: inc/ct_and_cpt.php:50
+msgid "View Event"
+msgstr ""
+
+#: inc/ct_and_cpt.php:51
+msgid "Search Events"
+msgstr ""
+
+#: inc/ct_and_cpt.php:52
+msgid "No Events found"
+msgstr ""
+
+#: inc/ct_and_cpt.php:53
+msgid "No Events found in Trash"
+msgstr ""
+
+#: inc/ct_and_cpt.php:54
+msgid "Parent Events:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:55
+msgid "Events"
+msgstr ""
+
+#: inc/ct_and_cpt.php:75
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:76
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:77
+msgid "Search Event Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:78
+msgid "All Event Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:79
+msgid "Parent Event Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:80
+msgid "Parent Event Categories:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:81
+msgid "Edit Event Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:82
+msgid "Update Event Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:83
+msgid "Add New Event Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:84
+msgid "New Event Category Name"
+msgstr ""
+
+#: inc/ct_and_cpt.php:85 inc/ct_and_cpt.php:305
+msgid "Event Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:102
+msgctxt "CPT general name"
+msgid "Course"
+msgstr ""
+
+#: inc/ct_and_cpt.php:103
+msgctxt "CPT singular name"
+msgid "Course"
+msgstr ""
+
+#: inc/ct_and_cpt.php:104
+msgid "Add New Course"
+msgstr ""
+
+#: inc/ct_and_cpt.php:105 inc/ct_and_cpt.php:107
+msgid "New Course"
+msgstr ""
+
+#: inc/ct_and_cpt.php:106
+msgid "Edit Course"
+msgstr ""
+
+#: inc/ct_and_cpt.php:108
+msgid "All Courses"
+msgstr ""
+
+#: inc/ct_and_cpt.php:109
+msgid "View Course"
+msgstr ""
+
+#: inc/ct_and_cpt.php:110
+msgid "Search Courses"
+msgstr ""
+
+#: inc/ct_and_cpt.php:111
+msgid "No Courses found"
+msgstr ""
+
+#: inc/ct_and_cpt.php:112
+msgid "No Courses found in Trash"
+msgstr ""
+
+#: inc/ct_and_cpt.php:113
+msgid "Parent Courses:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:114
+msgid "Courses"
+msgstr ""
+
+#: inc/ct_and_cpt.php:134
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:135
+msgctxt "taxonomy singular name"
+msgid "Course Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:136
+msgid "Search Course Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:137
+msgid "All Course Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:138
+msgid "Parent Course Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:139
+msgid "Parent Course Categories:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:140
+msgid "Edit Course Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:141
+msgid "Update Course Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:142
+msgid "Add New Course Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:143
+msgid "New Course Category Name"
+msgstr ""
+
+#: inc/ct_and_cpt.php:144 inc/ct_and_cpt.php:392
+msgid "Course Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:161
+msgctxt "CPT general name"
+msgid "Gallery"
+msgstr ""
+
+#: inc/ct_and_cpt.php:162
+msgctxt "CPT singular name"
+msgid "Gallery"
+msgstr ""
+
+#: inc/ct_and_cpt.php:163
+msgid "Add New Gallery"
+msgstr ""
+
+#: inc/ct_and_cpt.php:164 inc/ct_and_cpt.php:166
+msgid "New Gallery"
+msgstr ""
+
+#: inc/ct_and_cpt.php:165
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/ct_and_cpt.php:167
+msgid "All Galleries"
+msgstr ""
+
+#: inc/ct_and_cpt.php:168
+msgid "View Gallery"
+msgstr ""
+
+#: inc/ct_and_cpt.php:169
+msgid "Search Galleries"
+msgstr ""
+
+#: inc/ct_and_cpt.php:170
+msgid "No Galleries found"
+msgstr ""
+
+#: inc/ct_and_cpt.php:171
+msgid "No Galleries found in Trash"
+msgstr ""
+
+#: inc/ct_and_cpt.php:172
+msgid "Parent Galleries:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:173
+msgid "Galleries"
+msgstr ""
+
+#: inc/ct_and_cpt.php:193
+msgctxt "taxonomy general name"
+msgid "Gallery Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:194
+msgctxt "taxonomy singular name"
+msgid "Gallery Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:195
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:196
+msgid "All Gallery Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:197
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:198
+msgid "Parent Gallery Categories:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:199
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:200
+msgid "Update Gallery Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:201
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: inc/ct_and_cpt.php:202
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: inc/ct_and_cpt.php:203 inc/ct_and_cpt.php:450
+msgid "Gallery Categories"
+msgstr ""
+
+#: inc/ct_and_cpt.php:220
+msgctxt "CPT general name"
+msgid "Sliders"
+msgstr ""
+
+#: inc/ct_and_cpt.php:221
+msgctxt "CPT singular name"
+msgid "Slider"
+msgstr ""
+
+#: inc/ct_and_cpt.php:222
+msgid "Add New Slider"
+msgstr ""
+
+#: inc/ct_and_cpt.php:223 inc/ct_and_cpt.php:225
+msgid "New Slider"
+msgstr ""
+
+#: inc/ct_and_cpt.php:224
+msgid "Edit Slider"
+msgstr ""
+
+#: inc/ct_and_cpt.php:226
+msgid "All Sliders"
+msgstr ""
+
+#: inc/ct_and_cpt.php:227
+msgid "View Slider"
+msgstr ""
+
+#: inc/ct_and_cpt.php:228
+msgid "Search Sliders"
+msgstr ""
+
+#: inc/ct_and_cpt.php:229
+msgid "No Sliders found"
+msgstr ""
+
+#: inc/ct_and_cpt.php:230
+msgid "No Sliders found in Trash"
+msgstr ""
+
+#: inc/ct_and_cpt.php:231
+msgid "Parent Sliders:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:232
+msgid "Sliders"
+msgstr ""
+
+#: inc/ct_and_cpt.php:255
+msgctxt "CPT general name"
+msgid "Content Chunks"
+msgstr ""
+
+#: inc/ct_and_cpt.php:256
+msgctxt "CPT singular name"
+msgid "Content Chunk"
+msgstr ""
+
+#: inc/ct_and_cpt.php:257
+msgid "Add New Content Chunk"
+msgstr ""
+
+#: inc/ct_and_cpt.php:258 inc/ct_and_cpt.php:260
+msgid "New Content Chunk"
+msgstr ""
+
+#: inc/ct_and_cpt.php:259
+msgid "Edit Content Chunk"
+msgstr ""
+
+#: inc/ct_and_cpt.php:261
+msgid "All Content Chunks"
+msgstr ""
+
+#: inc/ct_and_cpt.php:262
+msgid "View Content Chunk"
+msgstr ""
+
+#: inc/ct_and_cpt.php:263
+msgid "Search Content Chunk"
+msgstr ""
+
+#: inc/ct_and_cpt.php:264
+msgid "No Content Chunk found"
+msgstr ""
+
+#: inc/ct_and_cpt.php:265
+msgid "No Content Chunks found in Trash"
+msgstr ""
+
+#: inc/ct_and_cpt.php:266
+msgid "Parent Content Chunks:"
+msgstr ""
+
+#: inc/ct_and_cpt.php:267
+msgid "Content Chunks"
+msgstr ""
+
+#: inc/ct_and_cpt.php:300 inc/custom_functions.php:263
+msgid "Event"
+msgstr ""
+
+#: inc/ct_and_cpt.php:301
+msgid "Start Date"
+msgstr ""
+
+#: inc/ct_and_cpt.php:302
+msgid "End Date"
+msgstr ""
+
+#: inc/ct_and_cpt.php:303
+msgid "Start Time"
+msgstr ""
+
+#: inc/ct_and_cpt.php:304
+msgid "End Time"
+msgstr ""
+
+#: inc/ct_and_cpt.php:306 inc/ct_and_cpt.php:393 inc/ct_and_cpt.php:452
+#: inc/ct_and_cpt.php:491 inc/ct_and_cpt.php:535
+msgid "Date posted"
+msgstr ""
+
+#: inc/ct_and_cpt.php:448
+msgid "Featured Image"
+msgstr ""
+
+#: inc/ct_and_cpt.php:449
+msgid "Gallery Title"
+msgstr ""
+
+#: inc/ct_and_cpt.php:451 inc/theme_widgets.php:930
+msgid "Gallery ID"
+msgstr ""
+
+#: inc/ct_and_cpt.php:488
+msgid "Slider Leading Image"
+msgstr ""
+
+#: inc/ct_and_cpt.php:489
+msgid "Slider Title"
+msgstr ""
+
+#: inc/ct_and_cpt.php:533
+msgid "Content Title"
+msgstr ""
+
+#: inc/custom_functions.php:154
+msgid "Pages:"
+msgstr ""
+
+#: inc/custom_functions.php:187
+msgid "&larr; PREVIOUS"
+msgstr ""
+
+#: inc/custom_functions.php:188
+msgid "NEXT &rarr;"
+msgstr ""
+
+#: inc/custom_functions.php:216
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/custom_functions.php:225
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/custom_functions.php:233 inc/custom_functions.php:243
+msgid "0 comments"
+msgstr ""
+
+#: inc/custom_functions.php:233 inc/custom_functions.php:245
+msgid "1 comment"
+msgstr ""
+
+#: inc/custom_functions.php:233
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: inc/custom_functions.php:244
+msgid "comments"
+msgstr ""
+
+#: inc/custom_functions.php:248
+msgid "Comments disabled."
+msgstr ""
+
+#: inc/custom_functions.php:264
+msgid "Course"
+msgstr ""
+
+#: inc/custom_functions.php:265
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom_functions.php:869
+msgid "This post is password protected!"
+msgstr ""
+
+#: inc/custom_functions.php:871
+msgid "Enter Password"
+msgstr ""
+
+#: inc/custom_functions.php:872
+msgid "Submit"
+msgstr ""
+
+#: inc/custom_functions.php:939
+msgid "Add to Google Calendar"
+msgstr ""
+
+#: inc/shortcodes_engine.php:426 inc/shortcodes_engine.php:495
+#: inc/shortcodes_engine.php:588 inc/shortcodes_engine.php:647
+#: inc/shortcodes_engine.php:699 inc/theme_widgets.php:869
+msgid "No entries found!"
+msgstr ""
+
+#: inc/shortcodes_engine.php:681
+msgid "No pages found!"
+msgstr ""
+
+#: inc/shortcodes_engine.php:785 inc/theme_widgets.php:62
+msgid "Follow!"
+msgstr ""
+
+#: inc/shortcodes_engine.php:785
+msgid "Follow Us!"
+msgstr ""
+
+#: inc/shortcodes_engine.php:791
+msgid "Twitter user is undefined!"
+msgstr ""
+
+#: inc/shortcodes_engine.php:809 inc/theme_widgets.php:811
+msgctxt "course search form placeholder"
+msgid "Find a course..."
+msgstr ""
+
+#: inc/shortcodes_engine.php:812 inc/theme_widgets.php:813
+msgctxt "course search form button label"
+msgid "GO!"
+msgstr ""
+
+#: inc/shortcodes_engine.php:834
+msgid "Source is undefined!"
+msgstr ""
+
+#: inc/theme_sidebars.php:9 sidebars/sidebar-index.php:1
+msgid "Sidebar Index"
+msgstr ""
+
+#: inc/theme_sidebars.php:11
+msgid "Content: Home/Index Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:19 sidebars/sidebar-single.php:1
+msgid "Sidebar Single"
+msgstr ""
+
+#: inc/theme_sidebars.php:21
+msgid "Content: Single Post"
+msgstr ""
+
+#: inc/theme_sidebars.php:29 sidebars/sidebar-page.php:1
+msgid "Sidebar Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:31
+msgid "Content: Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:39 sidebars/sidebar-category.php:1
+msgid "Sidebar Category"
+msgstr ""
+
+#: inc/theme_sidebars.php:41
+msgid "Content: Category Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:49 sidebars/sidebar-archive.php:1
+msgid "Sidebar Archive"
+msgstr ""
+
+#: inc/theme_sidebars.php:51
+msgid "Content: Archive Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:59 sidebars/sidebar-tag.php:1
+msgid "Sidebar Tag"
+msgstr ""
+
+#: inc/theme_sidebars.php:61
+msgid "Content: Tags Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:69 sidebars/sidebar-search.php:1
+msgid "Sidebar Search"
+msgstr ""
+
+#: inc/theme_sidebars.php:71
+msgid "Content: Search Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:79 sidebars/sidebar-contact.php:1
+msgid "Sidebar Contact"
+msgstr ""
+
+#: inc/theme_sidebars.php:81
+msgid "Content: Contact Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:89 sidebars/sidebar-events.php:1
+msgid "Sidebar Events"
+msgstr ""
+
+#: inc/theme_sidebars.php:91
+msgid "Content: Events Category Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:99 sidebars/sidebar-single-event.php:1
+msgid "Sidebar Event Single"
+msgstr ""
+
+#: inc/theme_sidebars.php:101
+msgid "Content: Event Single Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:109 sidebars/sidebar-courses.php:1
+msgid "Sidebar Courses"
+msgstr ""
+
+#: inc/theme_sidebars.php:111
+msgid "Content: Courses Category Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:119 sidebars/sidebar-single-course.php:1
+msgid "Sidebar Course Single"
+msgstr ""
+
+#: inc/theme_sidebars.php:121
+msgid "Content: Course Single Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:129 sidebars/sidebar-galleries.php:1
+msgid "Sidebar Galleries"
+msgstr ""
+
+#: inc/theme_sidebars.php:131
+msgid "Content: Galleries Category Page"
+msgstr ""
+
+#: inc/theme_sidebars.php:154
+msgid "Content: Footer, column left"
+msgstr ""
+
+#: inc/theme_sidebars.php:164
+msgid "Content: Footer, column middle"
+msgstr ""
+
+#: inc/theme_sidebars.php:174
+msgid "Content: Footer, column right"
+msgstr ""
+
+#: inc/theme_widgets.php:10
+msgid "Display Twitter Twitts for a target user."
+msgstr ""
+
+#: inc/theme_widgets.php:62
+msgid "Follow us!"
+msgstr ""
+
+#: inc/theme_widgets.php:91 inc/theme_widgets.php:214 inc/theme_widgets.php:378
+#: inc/theme_widgets.php:531 inc/theme_widgets.php:637
+#: inc/theme_widgets.php:780 inc/theme_widgets.php:836
+#: inc/theme_widgets.php:926
+msgid "Widget Title"
+msgstr ""
+
+#: inc/theme_widgets.php:98
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/theme_widgets.php:105
+msgid "Number of Twitts to show (max 10!)"
+msgstr ""
+
+#: inc/theme_widgets.php:112
+msgid "Exclude replies?"
+msgstr ""
+
+#: inc/theme_widgets.php:116 inc/theme_widgets.php:121
+#: inc/theme_widgets.php:126
+msgid "YES"
+msgstr ""
+
+#: inc/theme_widgets.php:117 inc/theme_widgets.php:122
+#: inc/theme_widgets.php:127
+msgid "NO"
+msgstr ""
+
+#: inc/theme_widgets.php:143
+msgid "Display Flickr photos of target user or by tag(s)."
+msgstr ""
+
+#: inc/theme_widgets.php:186
+msgid "No photos matching given criteria."
+msgstr ""
+
+#: inc/theme_widgets.php:221
+msgid "Show photos by user or tag(s)"
+msgstr ""
+
+#: inc/theme_widgets.php:225 inc/theme_widgets.php:230
+#: inc/theme_widgets.php:235
+msgid "By user"
+msgstr ""
+
+#: inc/theme_widgets.php:226 inc/theme_widgets.php:231
+#: inc/theme_widgets.php:236
+msgid "By tag(s)"
+msgstr ""
+
+#: inc/theme_widgets.php:245
+msgid ""
+"If your choice was \"By tag(s)\" - enter a tag or comma separated tags. "
+"Otherwise enter Flickr user ID (something like \"14897087@N04\")."
+msgstr ""
+
+#: inc/theme_widgets.php:252
+msgid "Number of Flickr thumbs to show"
+msgstr ""
+
+#: inc/theme_widgets.php:265
+msgid "Display N number of recent Posts."
+msgstr ""
+
+#: inc/theme_widgets.php:346
+msgid "No recent posts found!"
+msgstr ""
+
+#: inc/theme_widgets.php:385
+msgctxt "recent posts widget checkbox label"
+msgid "Show post summary"
+msgstr ""
+
+#: inc/theme_widgets.php:390 inc/theme_widgets.php:646
+msgid "Sort posts"
+msgstr ""
+
+#: inc/theme_widgets.php:394 inc/theme_widgets.php:399
+#: inc/theme_widgets.php:404 inc/theme_widgets.php:650
+#: inc/theme_widgets.php:655 inc/theme_widgets.php:660
+msgid "Ascending order"
+msgstr ""
+
+#: inc/theme_widgets.php:395 inc/theme_widgets.php:400
+#: inc/theme_widgets.php:405 inc/theme_widgets.php:651
+#: inc/theme_widgets.php:656 inc/theme_widgets.php:661
+msgid "Descending order"
+msgstr ""
+
+#: inc/theme_widgets.php:414
+msgid "Number of Recent Posts to show"
+msgstr ""
+
+#: inc/theme_widgets.php:422
+msgid ""
+"Show posts from category (comma separate category IDs if more than one, for "
+"example: 1, 7, 16)"
+msgstr ""
+
+#: inc/theme_widgets.php:436
+msgid "Add Upcoming Events list"
+msgstr ""
+
+#: inc/theme_widgets.php:509
+msgid "No Upcoming Events found!"
+msgstr ""
+
+#: inc/theme_widgets.php:548
+msgid "Add all Events list"
+msgstr ""
+
+#: inc/theme_widgets.php:613
+msgid "No Events found!"
+msgstr ""
+
+#: inc/theme_widgets.php:676
+msgid ""
+"This Widget is used to display information provided in Theme Options > "
+"Contact >> Contact Details."
+msgstr ""
+
+#: inc/theme_widgets.php:719
+msgctxt "contact telephone short"
+msgid "Tel:"
+msgstr ""
+
+#: inc/theme_widgets.php:720
+msgctxt "contact fax short"
+msgid "Fax:"
+msgstr ""
+
+#: inc/theme_widgets.php:734
+msgid "Contact us via email"
+msgstr ""
+
+#: inc/theme_widgets.php:794
+msgid "Add Course search form to a sidebar."
+msgstr ""
+
+#: inc/theme_widgets.php:840
+msgid "Search Info"
+msgstr ""
+
+#: inc/theme_widgets.php:852
+msgid "Add Featured Gallery"
+msgstr ""
+
+#: inc/theme_widgets.php:933
+msgid ""
+"<strong>How to obtain Gallery ID?</strong><br />Go to Galleries > All "
+"Galleries and copy from \"Gallery ID\" column."
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:15
+msgid "Rounded corners Image"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:20
+msgid "Circled Image"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:25
+msgid "Thumbnail Image"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:32
+msgid "Title Median"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:37
+msgid "Title Titan"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:42
+msgid "Title Giant"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:49
+msgid "List unstyled (OL or UL)"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:54
+msgid "List inline (OL or UL)"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:59
+msgid "List pills (OL or UL)"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:64
+msgid "List stacked pills (OL or UL)"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:69
+msgid "Active item - pill (LI)"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:76
+msgid "Callout Section"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:84
+msgid "Text align: Center"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:89
+msgid "Text align: Right"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:96
+msgid "Remove element margin top"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:101
+msgid "Remove element margin bottom"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:113
+msgid "Small text"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:121
+msgid "Table style: basic"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:126
+msgid "Table style: stripped"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:131
+msgid "Table style: bordered"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:136
+msgid "Table style: hover"
+msgstr ""
+
+#: inc/tinyMCE_stuff.php:141
+msgid "Table style: condensed"
+msgstr ""
+
+#: search-course.php:47
+msgid "Course search results:"
+msgstr ""
+
+#: search.php:30
+msgid "Search results for:"
+msgstr ""
+
+#: searchform.php:9 searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: single-course.php:70
+msgid "Course Downloads:"
+msgstr ""
+
+#: single-event.php:50
+msgid "to"
+msgstr ""
+
+#: single-gallery.php:116
+msgid "Next Gallery:"
+msgstr ""
+
+#: tag.php:30
+msgid "Posts tagged:"
+msgstr ""
+
+#: vafpress/bootstrap.php:88 vafpress/classes/option.php:364
+#: vafpress/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: vafpress/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: vafpress/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: vafpress/classes/metabox.php:566 vafpress/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: vafpress/classes/metabox.php:588 vafpress/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: vafpress/classes/option.php:47 vafpress/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: vafpress/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: vafpress/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: vafpress/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: vafpress/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: vafpress/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: vafpress/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: vafpress/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: vafpress/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: vafpress/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: vafpress/classes/option.php:479 vafpress/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: vafpress/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: vafpress/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: vafpress/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: vafpress/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: vafpress/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: vafpress/views/option/impexp.php:4 vafpress/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: vafpress/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: vafpress/views/option/impexp.php:27 vafpress/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: vafpress/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: vafpress/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: vafpress/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: vafpress/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: vafpress/views/option/set.php:69 vafpress/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: vafpress/views/option/set.php:70 vafpress/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: vafpress/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Buntington"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://school.wpshow.me"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Education/School Theme based on Bootstrap v3.1"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dameer DJ"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/feeleep"
+msgstr ""
